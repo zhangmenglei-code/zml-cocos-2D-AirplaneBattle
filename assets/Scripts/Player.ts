@@ -79,8 +79,6 @@ export class Player extends Component {
     private moveY: number = 570;
     // 计时器
     private bulletTimer: number = 0;
-    // 死亡
-    private isDead: boolean = false;
     // 子节点飞机动画
     private childAnim: Animation = null;
     // 无敌时间
@@ -91,6 +89,8 @@ export class Player extends Component {
     private toolTimer: number = 0;
     // 游戏是否暂停
     private isPause: boolean = false;
+    // 游戏是否结束
+    private isGameOver: boolean = false;
 
     // 初始化
     protected onLoad(): void {
@@ -171,7 +171,7 @@ export class Player extends Component {
         this.playerHpNode.string = this.playerHp.toString();
         // 玩家死亡
         if (this.playerHp <= 0) {
-            this.isDead = true;
+            this.isGameOver = true;
             // 触摸停止
             input.off(Input.EventType.TOUCH_MOVE, this.onTouchMove, this);
             // 禁用碰撞组件
@@ -236,7 +236,7 @@ export class Player extends Component {
 
     // 点击炸弹
     clickBomb() {
-        if (this.boomCount > 0 && !this.isPause) {
+        if (this.boomCount > 0 && !this.isPause && !this.isGameOver) {
             // 炸弹数量减少
             this.boomCount -= 1;
             // 更新炸弹数量节点
@@ -249,7 +249,7 @@ export class Player extends Component {
     }
 
     update(deltaTime: number) {
-        if (this.isDead) {
+        if (this.isGameOver) {
             return;
         }
         switch (this.bulletType) {
