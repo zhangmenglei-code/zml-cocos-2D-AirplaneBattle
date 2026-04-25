@@ -1,10 +1,16 @@
-/library
-/temp
-/local
+library/
+temp/
+local/
+profiles/
 
-/build
-/build-templates
+node_modules/
 
-/.idea
-/.vscode
-/.creator
+build/
+build-templates/
+
+.idea
+.vscode
+.creator
+
+publish/
+release/
