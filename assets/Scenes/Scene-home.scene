@@ -797,10 +797,7 @@
       "__uuid__": "d3ef6209-6381-457b-a693-6445ba207fc2@f9941",
       "__expectedType__": "cc.SpriteFrame"
     },
-    "_pressedSprite": {
-      "__uuid__": "d3ef6209-6381-457b-a693-6445ba207fc2@f9941",
-      "__expectedType__": "cc.SpriteFrame"
-    },
+    "_pressedSprite": null,
     "_disabledSprite": {
       "__uuid__": "d3ef6209-6381-457b-a693-6445ba207fc2@f9941",
       "__expectedType__": "cc.SpriteFrame"
