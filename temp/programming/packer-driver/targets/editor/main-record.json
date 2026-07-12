@@ -997,7 +997,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 26148.2098,
+      "mTimestamp": 997259.1598,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
@@ -1085,7 +1085,7 @@
           }
         },
         {
-          "value": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/Scripts/Bg.ts",
+          "value": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/internal/index.js",
           "resolved": "__unresolved_6",
           "loc": {
             "start": {
@@ -1094,147 +1094,21 @@
             },
             "end": {
               "line": 5,
-              "column": 971
+              "column": 975
             }
           }
         },
         {
-          "value": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/Scripts/Bullet.ts",
+          "value": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/main/index.js",
           "resolved": "__unresolved_7",
           "loc": {
             "start": {
               "line": 5,
-              "column": 987
+              "column": 991
             },
             "end": {
               "line": 5,
               "column": 1062
-            }
-          }
-        },
-        {
-          "value": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/Scripts/Enemy.ts",
-          "resolved": "__unresolved_8",
-          "loc": {
-            "start": {
-              "line": 5,
-              "column": 1078
-            },
-            "end": {
-              "line": 5,
-              "column": 1152
-            }
-          }
-        },
-        {
-          "value": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/Scripts/EnemyManage.ts",
-          "resolved": "__unresolved_9",
-          "loc": {
-            "start": {
-              "line": 5,
-              "column": 1168
-            },
-            "end": {
-              "line": 5,
-              "column": 1248
-            }
-          }
-        },
-        {
-          "value": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/Scripts/EventManager.ts",
-          "resolved": "__unresolved_10",
-          "loc": {
-            "start": {
-              "line": 5,
-              "column": 1264
-            },
-            "end": {
-              "line": 5,
-              "column": 1345
-            }
-          }
-        },
-        {
-          "value": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/Scripts/GameManage.ts",
-          "resolved": "__unresolved_11",
-          "loc": {
-            "start": {
-              "line": 5,
-              "column": 1361
-            },
-            "end": {
-              "line": 5,
-              "column": 1440
-            }
-          }
-        },
-        {
-          "value": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/Scripts/LoadManage.ts",
-          "resolved": "__unresolved_12",
-          "loc": {
-            "start": {
-              "line": 5,
-              "column": 1456
-            },
-            "end": {
-              "line": 5,
-              "column": 1535
-            }
-          }
-        },
-        {
-          "value": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/Scripts/Player.ts",
-          "resolved": "__unresolved_13",
-          "loc": {
-            "start": {
-              "line": 5,
-              "column": 1551
-            },
-            "end": {
-              "line": 5,
-              "column": 1626
-            }
-          }
-        },
-        {
-          "value": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/Scripts/StartGame.ts",
-          "resolved": "__unresolved_14",
-          "loc": {
-            "start": {
-              "line": 5,
-              "column": 1642
-            },
-            "end": {
-              "line": 5,
-              "column": 1720
-            }
-          }
-        },
-        {
-          "value": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/Scripts/Tool.ts",
-          "resolved": "__unresolved_15",
-          "loc": {
-            "start": {
-              "line": 5,
-              "column": 1736
-            },
-            "end": {
-              "line": 5,
-              "column": 1809
-            }
-          }
-        },
-        {
-          "value": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/Scripts/ToolManage.ts",
-          "resolved": "__unresolved_16",
-          "loc": {
-            "start": {
-              "line": 5,
-              "column": 1825
-            },
-            "end": {
-              "line": 5,
-              "column": 1904
             }
           }
         }
@@ -1286,77 +1160,14 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/Scripts/Bg.ts"
+            "url": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/internal/index.mjs?cjs=&original=.js"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/Scripts/Bullet.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/Scripts/Enemy.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/Scripts/EnemyManage.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/Scripts/EventManager.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/Scripts/GameManage.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/Scripts/LoadManage.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/Scripts/Player.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/Scripts/StartGame.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/Scripts/Tool.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/Scripts/ToolManage.ts"
+            "url": "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/main/index.mjs?cjs=&original=.js"
           },
           "messages": []
         }
@@ -2801,7 +2612,7 @@
       ]
     },
     "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/internal/index.mjs?cjs=&original=.js": {
-      "mTimestamp": 1783877745897.0852,
+      "mTimestamp": 1783878080596.86,
       "chunkId": "29c8f36d01e2815a2637d0737c95cef9ff11bd3c",
       "imports": [
         {
@@ -2905,7 +2716,7 @@
       ]
     },
     "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/main/index.mjs?cjs=&original=.js": {
-      "mTimestamp": 1783877746074.7356,
+      "mTimestamp": 1783878080596.86,
       "chunkId": "1c8251f22f97b407d281b25604934b12362eacbc",
       "imports": [
         {
@@ -3010,8 +2821,8 @@
     },
     "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/internal/index.js": {
       "mTimestamp": {
-        "mtime": 1783877745897.0852,
-        "uuid": "ae51bb70-db34-4972-85a3-b72624296601"
+        "mtime": 1783878080596.86,
+        "uuid": "6b3eb268-145a-4740-87a3-0ad0fffdcff7"
       },
       "chunkId": "3edf6c080af4aaa32892798c111661c628d785ae",
       "imports": [
@@ -3042,7 +2853,7 @@
       ]
     },
     "cce:/internal/ml/cjs-loader.mjs": {
-      "mTimestamp": 1783875769779,
+      "mTimestamp": 1783877978346,
       "chunkId": "a0d063530de23ddade53e1a935bf64c81277c061",
       "imports": [],
       "type": "esm",
@@ -3050,8 +2861,8 @@
     },
     "file:///D:/cocos_zml/zml-cocos-2D-AirplaneBattle/assets/main/index.js": {
       "mTimestamp": {
-        "mtime": 1783877746074.7356,
-        "uuid": "a29a74b9-0b29-4b53-9f34-3a4139eaa2bf"
+        "mtime": 1783878080596.86,
+        "uuid": "e1c45ce2-4246-4504-a1c5-305418d1122e"
       },
       "chunkId": "842d11715ac35a350d9cc002c9c5d3086d606152",
       "imports": [
