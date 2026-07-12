@@ -1,0 +1,314 @@
+2026-7-13 01:33:17 - debug: =================================== build Task (web-mobile) Start ================================
+2026-7-13 01:33:17 - debug: Start build task, options:{"name":"zml-cocos-2D-AirplaneBattle","server":"","engineModulesConfigKey":"defaultConfig","platform":"web-mobile","buildPath":"project://build","debug":false,"buildMode":"normal","mangleProperties":false,"md5Cache":false,"skipCompressTexture":false,"sourceMaps":false,"overwriteProjectSettings":{"includeModules":{"gfx-webgl2":"on","physics":"inherit-project-setting","physics-2d":"inherit-project-setting"},"macroConfig":{"cleanupImageCache":"inherit-project-setting"}},"nativeCodeBundleMode":"both","polyfills":{"asyncFunctions":true},"experimentalEraseModules":false,"startSceneAssetBundle":false,"bundleConfigs":[],"inlineEnum":true,"useBuiltinServer":false,"md5CacheOptions":{"excludes":[],"includes":[],"replaceOnly":[],"handleTemplateMd5Link":true},"mainBundleIsRemote":false,"mainBundleCompressionType":"merge_dep","useSplashScreen":true,"bundleCommonChunk":false,"packAutoAtlas":true,"startScene":"cf834852-9b78-43f4-bff1-051d21bc36b0","outputName":"web-mobile","taskName":"web-mobile","scenes":[{"url":"db://assets/Scenes/Scene-game.scene","uuid":"1fe614cc-2965-44e6-a089-7cf6bb918b0a"},{"url":"db://assets/Scenes/Scene-home.scene","uuid":"8561d43d-c3ed-4bca-b75f-e4cc43833b0d"},{"url":"db://assets/Scenes/Scene-load.scene","uuid":"cf834852-9b78-43f4-bff1-051d21bc36b0"}],"wasmCompressionMode":false,"binGroupConfig":{"threshold":16,"enable":false},"packages":{"web-mobile":{"useWebGPU":false,"orientation":"portrait","embedWebDebugger":false,"__version__":"1.0.1"},"adsense-h5g-plugin":{"enableAdsense":false,"enableTestAd":false,"__version__":"1.0.1","AFPHostPropertyCode":"ca-host-pub-5396158963872751","AFPHostDomain":"douyougame.com","otherAFPHostPropertyCode":"","otherAFPDomain":""},"cocos-service":{"configID":"1bedb7","services":[]}},"__version__":"1.3.9","logDest":"project://temp/builder/log/web-mobile2026-7-13 01-33.log"}
+2026-7-13 01:33:17 - debug: Build with Cocos Creator 3.8.8
+2026-7-13 01:33:17 - debug: cocos-service:(onBeforeBuild) start..., progress: 0%
+2026-7-13 01:33:17 - debug: // ---- build task cocos-service：onBeforeBuild ----
+2026-7-13 01:33:17 - debug: // ---- build task cocos-service：onBeforeBuild ---- (163ms)
+2026-7-13 01:33:17 - debug: cocos-service:(onBeforeBuild) in 163 ms ✓, progress: 2%
+2026-7-13 01:33:17 - debug: scene:(onBeforeBuild) start..., progress: 2%
+2026-7-13 01:33:17 - debug: // ---- build task scene：onBeforeBuild ----
+2026-7-13 01:33:20 - debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\Scenes\Scene-home.scenebackground: #aaff85; color: #000;color: #000;
+2026-7-13 01:33:20 - debug: save scene because scene is dirty
+2026-7-13 01:33:20 - debug: // ---- build task scene：onBeforeBuild ---- (3210ms)
+2026-7-13 01:33:20 - debug: scene:(onBeforeBuild) in 3210 ms ✓, progress: 4%
+2026-7-13 01:33:20 - debug: Start lock asset db..., progress: 4%
+2026-7-13 01:33:20 - log: Asset DB is paused with build!
+2026-7-13 01:33:20 - debug: Query all assets info in project
+2026-7-13 01:33:20 - debug: asset-db:reimport-asset8561d43d-c3ed-4bca-b75f-e4cc43833b0d (46ms)
+2026-7-13 01:33:20 - debug: init custom config: keepNodeUuid: false, useCache: true
+2026-7-13 01:33:20 - debug: web-mobile:(onAfterInit) start..., progress: 4%
+2026-7-13 01:33:20 - debug: // ---- build task web-mobile：onAfterInit ----
+2026-7-13 01:33:20 - debug: // ---- build task web-mobile：onAfterInit ---- (20ms)
+2026-7-13 01:33:20 - debug: web-mobile:(onAfterInit) in 20 ms ✓, progress: 5%
+2026-7-13 01:33:20 - debug: cocos-service:(onAfterInit) start..., progress: 5%
+2026-7-13 01:33:20 - debug: // ---- build task cocos-service：onAfterInit ----
+2026-7-13 01:33:20 - log: 资源数据库已锁定，资源操作(refresh)将会延迟响应，请稍侯
+2026-7-13 01:33:20 - debug: // ---- build task cocos-service：onAfterInit ---- (101ms)
+2026-7-13 01:33:20 - debug: cocos-service:(onAfterInit) in 101 ms ✓, progress: 7%
+2026-7-13 01:33:20 - debug: Skip compress image, progress: 0%
+2026-7-13 01:33:20 - debug: adsense-h5g-plugin:(onBeforeBundleInit) start..., progress: 7%
+2026-7-13 01:33:20 - debug: adsense-h5g-plugin:(onBeforeBundleInit) start..., progress: 0%
+2026-7-13 01:33:20 - debug: // ---- build task adsense-h5g-plugin：onBeforeBundleInit ----
+2026-7-13 01:33:20 - debug: [adsense-h5g-plugin] remove script success
+2026-7-13 01:33:20 - debug: // ---- build task adsense-h5g-plugin：onBeforeBundleInit ---- (43ms)
+2026-7-13 01:33:20 - debug(2): adsense-h5g-plugin:(onBeforeBundleInit) in 43 ms ✓, progress: 7%
+2026-7-13 01:33:20 - debug(2): Init all bundles start..., progress: 7%
+2026-7-13 01:33:20 - debug(2): Num of bundles: 2..., progress: 7%
+2026-7-13 01:33:20 - debug(2): web-mobile:(onAfterBundleInit) start..., progress: 7%
+2026-7-13 01:33:20 - debug: // ---- build task web-mobile：onAfterBundleInit ----
+2026-7-13 01:33:20 - debug: // ---- build task web-mobile：onAfterBundleInit ---- (56ms)
+2026-7-13 01:33:20 - debug: web-mobile:(onAfterBundleInit) in 56 ms ✓, progress: 7%
+2026-7-13 01:33:20 - debug: web-mobile:(onAfterBundleInit) in 56 ms ✓, progress: 13%
+2026-7-13 01:33:20 - debug: 查询 Asset Bundle start, progress: 7%
+2026-7-13 01:33:20 - debug: // ---- build task 查询 Asset Bundle ----
+2026-7-13 01:33:20 - debug: Init bundle root assets start..., progress: 7%
+2026-7-13 01:33:20 - debug: Init bundle root assets start..., progress: 13%
+2026-7-13 01:33:20 - debug: Query preload assets/scripts from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,6a2d0734-bd9e-4ddf-946e-caa52498cb75,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d,ff9b0199-ce04-4cfe-86cc-6c719f08d6e4,de1c2107-70c8-4021-8459-6399f24d01c6,cbf30902-517f-40dc-af90-a550bac27cf1,5c601d96-e4c7-4698-991b-7ee674b11079
+2026-7-13 01:33:20 - debug:   Number of all scenes: 3
+2026-7-13 01:33:20 - debug:   Number of all scripts: 17
+2026-7-13 01:33:20 - debug:   Number of other assets: 466
+2026-7-13 01:33:20 - debug: Init bundle root assets success..., progress: 7%
+2026-7-13 01:33:20 - debug: Init bundle root assets success..., progress: 13%
+2026-7-13 01:33:20 - debug: reload all scripts.
+2026-7-13 01:33:20 - debug: [[Executor]] reload before lock
+2026-7-13 01:33:20 - debug: Set detail map pack:///resolution-detail-map.json: {}
+2026-7-13 01:33:20 - groupCollapsed: Invalidate all modules
+2026-7-13 01:33:20 - debug: Unregister BuiltinPipelineSettings
+2026-7-13 01:33:20 - debug: Unregister BuiltinPipelinePassBuilder
+2026-7-13 01:33:20 - debug: Unregister BuiltinDepthOfFieldPass
+2026-7-13 01:33:20 - debug: Unregister DebugViewRuntimeControl
+2026-7-13 01:33:20 - debug: Unregister EventManager
+2026-7-13 01:33:20 - debug: Unregister Bg
+2026-7-13 01:33:20 - debug: Unregister Bullet
+2026-7-13 01:33:20 - debug: Unregister Enemy
+2026-7-13 01:33:20 - debug: Unregister EnemyManage
+2026-7-13 01:33:20 - debug: Unregister GameManage
+2026-7-13 01:33:20 - debug: Unregister LoadManage
+2026-7-13 01:33:20 - debug: Unregister Tool
+2026-7-13 01:33:20 - debug: Unregister Player
+2026-7-13 01:33:20 - debug: Unregister StartGame
+2026-7-13 01:33:20 - debug: Unregister ToolManage
+2026-7-13 01:33:20 - debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2026-7-13 01:33:20 - debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2026-7-13 01:33:20 - debug: Invalidating 'pack:///chunks/30/306468591e32cee25ef754c33730d3fb31f5ee1c.js'
+2026-7-13 01:33:20 - debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2026-7-13 01:33:20 - debug: Invalidating 'pack:///chunks/93/93bb12c6899992ce44e8d5ddc7d66a01f4d1433f.js'
+2026-7-13 01:33:20 - debug: Invalidating 'pack:///chunks/1d/1d8a81082dcf4174bf1454441587bb41df75b6d3.js'
+2026-7-13 01:33:20 - debug: Invalidating 'pack:///chunks/c5/c5165284ba2c07ed3a57625104aa2b42b11938f1.js'
+2026-7-13 01:33:20 - debug: Invalidating 'pack:///chunks/9b/9b8cddb7b6dd91a299d4f54399806cabc5d5f853.js'
+2026-7-13 01:33:20 - debug: Invalidating 'pack:///chunks/db/db6c9719ceaf9abdcc6eddffdbbc4c229ae01870.js'
+2026-7-13 01:33:20 - debug: Invalidating 'pack:///chunks/86/86ba3a64e97e6471234eb9b6934aa0de60d78362.js'
+2026-7-13 01:33:20 - debug: Invalidating 'pack:///chunks/4e/4e7f8b16eac3cd8afbe9d7219a27dcca1d6fdb70.js'
+2026-7-13 01:33:20 - debug: Invalidating 'pack:///chunks/d9/d9a345bd7777d1e3481e8f3a8264c07da168e78f.js'
+2026-7-13 01:33:20 - debug: Invalidating 'pack:///chunks/95/950c9415915de3ea2430c4d38719fa0f0f820524.js'
+2026-7-13 01:33:20 - debug: Invalidating 'pack:///chunks/0f/0fb797b9afdd5999549cff4205286cd89811d87d.js'
+2026-7-13 01:33:20 - debug: Invalidating 'pack:///chunks/d8/d83c66f08203542410a2ce001d87fcef0ea7618c.js'
+2026-7-13 01:33:20 - debug: Invalidating 'pack:///chunks/f2/f29691db37fb2399c4ece279a0483f233cfadf15.js'
+2026-7-13 01:33:20 - debug: Invalidating 'pack:///chunks/e6/e6e4917a0e64c512d41e4d6d43e6dd5ee6994c20.js'
+2026-7-13 01:33:20 - debug: Invalidating 'pack:///chunks/87/87fb4d9ea2429412974d56e37c7820415bff8bc2.js'
+2026-7-13 01:33:20 - debug: Invalidating 'pack:///chunks/46/46a4e5f301512cb2435907154a7645af9e3aaf2c.js'
+2026-7-13 01:33:20 - debug: Invalidating 'pack:///chunks/c5/c5834a76dbdd0006128e9f2c9562d9bc6b99da2b.js'
+2026-7-13 01:33:20 - groupEnd: Invalidate all modules
+2026-7-13 01:33:20 - groupCollapsed: Imports all modules
+2026-7-13 01:33:20 - debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2026-7-13 01:33:21 - debug: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to D:\cocos_zml\zml-cocos-2D-AirplaneBattle\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2026-7-13 01:33:21 - debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2026-7-13 01:33:21 - debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2026-7-13 01:33:21 - debug: [[Executor]] Module "pack:///chunks/9b/9b8cddb7b6dd91a299d4f54399806cabc5d5f853.js" loaded.
+2026-7-13 01:33:21 - debug: [[Executor]] Register BuiltinPipelineSettings
+2026-7-13 01:33:21 - debug: [[Executor]] Module "pack:///chunks/93/93bb12c6899992ce44e8d5ddc7d66a01f4d1433f.js" loaded.
+2026-7-13 01:33:21 - debug: [[Executor]] Register BuiltinPipelinePassBuilder
+2026-7-13 01:33:21 - debug: [[Executor]] Module "pack:///chunks/1d/1d8a81082dcf4174bf1454441587bb41df75b6d3.js" loaded.
+2026-7-13 01:33:21 - debug: [[Executor]] Module "pack:///chunks/c5/c5165284ba2c07ed3a57625104aa2b42b11938f1.js" loaded.
+2026-7-13 01:33:21 - debug: [[Executor]] Register BuiltinDepthOfFieldPass
+2026-7-13 01:33:21 - debug: [[Executor]] Module "pack:///chunks/30/306468591e32cee25ef754c33730d3fb31f5ee1c.js" loaded.
+2026-7-13 01:33:21 - debug: [[Executor]] Register DebugViewRuntimeControl
+2026-7-13 01:33:21 - debug: [[Executor]] Module "pack:///chunks/db/db6c9719ceaf9abdcc6eddffdbbc4c229ae01870.js" loaded.
+2026-7-13 01:33:21 - debug: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\temp\programming\packer-driver\targets\editor\chunks\86\86ba3a64e97e6471234eb9b6934aa0de60d78362.js resolved to D:\cocos_zml\zml-cocos-2D-AirplaneBattle\temp\programming\packer-driver\targets\editor\chunks\86\86ba3a64e97e6471234eb9b6934aa0de60d78362.js is not in module cache!
+2026-7-13 01:33:21 - debug: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\temp\programming\packer-driver\targets\editor\chunks\4e\4e7f8b16eac3cd8afbe9d7219a27dcca1d6fdb70.js resolved to D:\cocos_zml\zml-cocos-2D-AirplaneBattle\temp\programming\packer-driver\targets\editor\chunks\4e\4e7f8b16eac3cd8afbe9d7219a27dcca1d6fdb70.js is not in module cache!
+2026-7-13 01:33:21 - debug: [[Executor]] Register EventManager
+2026-7-13 01:33:21 - debug: [[Executor]] Module "pack:///chunks/4e/4e7f8b16eac3cd8afbe9d7219a27dcca1d6fdb70.js" loaded.
+2026-7-13 01:33:21 - debug: [[Executor]] Register Bg
+2026-7-13 01:33:21 - debug: [[Executor]] Module "pack:///chunks/86/86ba3a64e97e6471234eb9b6934aa0de60d78362.js" loaded.
+2026-7-13 01:33:21 - debug: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\temp\programming\packer-driver\targets\editor\chunks\d9\d9a345bd7777d1e3481e8f3a8264c07da168e78f.js resolved to D:\cocos_zml\zml-cocos-2D-AirplaneBattle\temp\programming\packer-driver\targets\editor\chunks\d9\d9a345bd7777d1e3481e8f3a8264c07da168e78f.js is not in module cache!
+2026-7-13 01:33:21 - debug: [[Executor]] Register Bullet
+2026-7-13 01:33:21 - debug: [[Executor]] Module "pack:///chunks/d9/d9a345bd7777d1e3481e8f3a8264c07da168e78f.js" loaded.
+2026-7-13 01:33:21 - debug: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\temp\programming\packer-driver\targets\editor\chunks\95\950c9415915de3ea2430c4d38719fa0f0f820524.js resolved to D:\cocos_zml\zml-cocos-2D-AirplaneBattle\temp\programming\packer-driver\targets\editor\chunks\95\950c9415915de3ea2430c4d38719fa0f0f820524.js is not in module cache!
+2026-7-13 01:33:21 - debug: [[Executor]] Register Enemy
+2026-7-13 01:33:21 - debug: [[Executor]] Module "pack:///chunks/95/950c9415915de3ea2430c4d38719fa0f0f820524.js" loaded.
+2026-7-13 01:33:21 - debug: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\temp\programming\packer-driver\targets\editor\chunks\0f\0fb797b9afdd5999549cff4205286cd89811d87d.js resolved to D:\cocos_zml\zml-cocos-2D-AirplaneBattle\temp\programming\packer-driver\targets\editor\chunks\0f\0fb797b9afdd5999549cff4205286cd89811d87d.js is not in module cache!
+2026-7-13 01:33:21 - debug: [[Executor]] Register EnemyManage
+2026-7-13 01:33:21 - debug: [[Executor]] Module "pack:///chunks/0f/0fb797b9afdd5999549cff4205286cd89811d87d.js" loaded.
+2026-7-13 01:33:21 - debug: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\temp\programming\packer-driver\targets\editor\chunks\d8\d83c66f08203542410a2ce001d87fcef0ea7618c.js resolved to D:\cocos_zml\zml-cocos-2D-AirplaneBattle\temp\programming\packer-driver\targets\editor\chunks\d8\d83c66f08203542410a2ce001d87fcef0ea7618c.js is not in module cache!
+2026-7-13 01:33:21 - debug: [[Executor]] Register GameManage
+2026-7-13 01:33:21 - debug: [[Executor]] Module "pack:///chunks/d8/d83c66f08203542410a2ce001d87fcef0ea7618c.js" loaded.
+2026-7-13 01:33:21 - debug: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\temp\programming\packer-driver\targets\editor\chunks\f2\f29691db37fb2399c4ece279a0483f233cfadf15.js resolved to D:\cocos_zml\zml-cocos-2D-AirplaneBattle\temp\programming\packer-driver\targets\editor\chunks\f2\f29691db37fb2399c4ece279a0483f233cfadf15.js is not in module cache!
+2026-7-13 01:33:21 - debug: [[Executor]] Register LoadManage
+2026-7-13 01:33:21 - debug: [[Executor]] Module "pack:///chunks/f2/f29691db37fb2399c4ece279a0483f233cfadf15.js" loaded.
+2026-7-13 01:33:21 - debug: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\temp\programming\packer-driver\targets\editor\chunks\e6\e6e4917a0e64c512d41e4d6d43e6dd5ee6994c20.js resolved to D:\cocos_zml\zml-cocos-2D-AirplaneBattle\temp\programming\packer-driver\targets\editor\chunks\e6\e6e4917a0e64c512d41e4d6d43e6dd5ee6994c20.js is not in module cache!
+2026-7-13 01:33:21 - debug: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\temp\programming\packer-driver\targets\editor\chunks\87\87fb4d9ea2429412974d56e37c7820415bff8bc2.js resolved to D:\cocos_zml\zml-cocos-2D-AirplaneBattle\temp\programming\packer-driver\targets\editor\chunks\87\87fb4d9ea2429412974d56e37c7820415bff8bc2.js is not in module cache!
+2026-7-13 01:33:21 - debug: [[Executor]] Register Tool
+2026-7-13 01:33:21 - debug: [[Executor]] Module "pack:///chunks/87/87fb4d9ea2429412974d56e37c7820415bff8bc2.js" loaded.
+2026-7-13 01:33:21 - debug: [[Executor]] Register Player
+2026-7-13 01:33:21 - debug: [[Executor]] Module "pack:///chunks/e6/e6e4917a0e64c512d41e4d6d43e6dd5ee6994c20.js" loaded.
+2026-7-13 01:33:21 - debug: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\temp\programming\packer-driver\targets\editor\chunks\46\46a4e5f301512cb2435907154a7645af9e3aaf2c.js resolved to D:\cocos_zml\zml-cocos-2D-AirplaneBattle\temp\programming\packer-driver\targets\editor\chunks\46\46a4e5f301512cb2435907154a7645af9e3aaf2c.js is not in module cache!
+2026-7-13 01:33:21 - debug: [[Executor]] Register StartGame
+2026-7-13 01:33:21 - debug: [[Executor]] Module "pack:///chunks/46/46a4e5f301512cb2435907154a7645af9e3aaf2c.js" loaded.
+2026-7-13 01:33:21 - debug: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\temp\programming\packer-driver\targets\editor\chunks\c5\c5834a76dbdd0006128e9f2c9562d9bc6b99da2b.js resolved to D:\cocos_zml\zml-cocos-2D-AirplaneBattle\temp\programming\packer-driver\targets\editor\chunks\c5\c5834a76dbdd0006128e9f2c9562d9bc6b99da2b.js is not in module cache!
+2026-7-13 01:33:21 - debug: [[Executor]] Register ToolManage
+2026-7-13 01:33:21 - debug: [[Executor]] Module "pack:///chunks/c5/c5834a76dbdd0006128e9f2c9562d9bc6b99da2b.js" loaded.
+2026-7-13 01:33:21 - debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2026-7-13 01:33:21 - groupEnd: Imports all modules
+2026-7-13 01:33:21 - debug: [[Executor]] after unlock
+2026-7-13 01:33:21 - debug: Incremental keys: 
+2026-7-13 01:33:21 - debug: Init bundle share assets start..., progress: 7%
+2026-7-13 01:33:21 - debug: Init bundle share assets start..., progress: 13%
+2026-7-13 01:33:21 - debug: Init bundle share assets success..., progress: 7%
+2026-7-13 01:33:21 - debug: Init bundle share assets success..., progress: 13%
+2026-7-13 01:33:21 - debug: handle json group in bundle internal
+2026-7-13 01:33:21 - debug: handle json group in bundle internal success
+2026-7-13 01:33:21 - debug: handle json group in bundle main
+2026-7-13 01:33:21 - debug: init image compress task 0 in bundle internal
+2026-7-13 01:33:21 - debug: handle json group in bundle main success
+2026-7-13 01:33:21 - debug: init image compress task 0 in bundle main
+2026-7-13 01:33:21 - debug: // ---- build task 查询 Asset Bundle ---- (225ms)
+2026-7-13 01:33:21 - log: run build task 查询 Asset Bundle success in 225 ms√, progress: 12%
+2026-7-13 01:33:21 - debug: [Build Memory track]: 查询 Asset Bundle start:234.72MB, end 235.44MB, increase: 734.36KB
+2026-7-13 01:33:21 - debug: 查询 Asset Bundle start, progress: 12%
+2026-7-13 01:33:21 - debug: // ---- build task 查询 Asset Bundle ----
+2026-7-13 01:33:21 - debug: // ---- build task 查询 Asset Bundle ---- (40ms)
+2026-7-13 01:33:21 - log: run build task 查询 Asset Bundle success in 40 ms√, progress: 17%
+2026-7-13 01:33:21 - debug: [Build Memory track]: 查询 Asset Bundle start:235.47MB, end 235.64MB, increase: 168.18KB
+2026-7-13 01:33:21 - debug: 打包脚本 start, progress: 17%
+2026-7-13 01:33:21 - debug: // ---- build task 打包脚本 ----
+2026-7-13 01:33:22 - log: [buildPolyfillsCommand]enter sub process 28184, 9229, see: chrome://inspect/#devices
+2026-7-13 01:33:26 - debug: execute-script-end with buildPolyfillsCommand 4924ms
+2026-7-13 01:33:26 - debug: Generate systemJs..., progress: 17%
+2026-7-13 01:33:29 - debug: execute-script-end with buildSystemJsCommand 3605ms
+2026-7-13 01:33:29 - debug: 构建项目脚本 start..., progress: 17%
+2026-7-13 01:33:29 - debug: 构建项目脚本 start..., progress: 13%
+2026-7-13 01:33:33 - log: [buildScriptCommand]Number of non-entry chunks: 2
+2026-7-13 01:33:33 - debug: execute-script-end with buildScriptCommand 3470ms
+2026-7-13 01:33:33 - debug: Copy externalScripts success!
+2026-7-13 01:33:33 - debug: 构建项目脚本 in (3506 ms) √, progress: 17%
+2026-7-13 01:33:33 - debug: 构建项目脚本 in (3506 ms) √, progress: 13%
+2026-7-13 01:33:33 - debug: 构建引擎脚本 start..., progress: 17%
+2026-7-13 01:33:33 - debug: mangleProperties is enabled, found engine-mangle-config.json, use it
+2026-7-13 01:33:33 - debug: Engine cache (C:\Users\zmlzm\AppData\Local\Temp\CocosCreator\3.8.8\builder\engine\5ba8d68590c167326d2ce36470e4afe2) does not exist.
+2026-7-13 01:33:33 - debug: mangleProperties is disabled, platform: HTML5
+2026-7-13 01:33:33 - debug: Cache is invalid, start build engine with options: {  "incremental": "C:\\Users\\zmlzm\\AppData\\Local\\Temp\\CocosCreator\\3.8.8\\builder\\engine\\5ba8d68590c167326d2ce36470e4afe2.watch-files.json",  "engine": "D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine",  "out": "C:\\Users\\zmlzm\\AppData\\Local\\Temp\\CocosCreator\\3.8.8\\builder\\engine\\5ba8d68590c167326d2ce36470e4afe2",  "moduleFormat": "system",  "compress": true,  "nativeCodeBundleMode": "both",  "assetURLFormat": "runtime-resolved",  "sourceMap": false,  "loose": true,  "features": [    "2d",    "affine-transform",    "animation",    "audio",    "base",    "custom-pipeline",    "dragon-bones",    "gfx-webgl",    "gfx-webgl2",    "graphics",    "intersection-2d",    "mask",    "particle-2d",    "physics-2d-builtin",    "profiler",    "rich-text",    "spine-3.8",    "tiled-map",    "tween",    "ui",    "video",    "webview",    "custom-pipeline-builtin-scripts"  ],  "platform": "HTML5",  "flags": {    "DEBUG": false,    "LOAD_BULLET_MANUALLY": false,    "LOAD_SPINE_MANUALLY": false,    "WEBGPU": false  },  "mode": "BUILD",  "metaFile": "C:\\Users\\zmlzm\\AppData\\Local\\Temp\\CocosCreator\\3.8.8\\builder\\engine\\5ba8d68590c167326d2ce36470e4afe2.meta\\meta.json",  "wasmCompressionMode": false,  "inlineEnum": true,  "mangleProperties": false,  "mangleConfigJsonMtime": 0}
+2026-7-13 01:33:33 - debug: md5String: debug=false,sourceMaps=false,includeModules=["2d","affine-transform","animation","audio","base","custom-pipeline","dragon-bones","gfx-webgl","gfx-webgl2","graphics","intersection-2d","mask","particle-2d","physics-2d-builtin","profiler","rich-text","spine-3.8","tiled-map","tween","ui","video","webview","custom-pipeline-builtin-scripts"],engineVersion="3.8.8",platformType="HTML5",split=false,nativeCodeBundleMode="both",targets=undefined,entry="D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine",noDeprecatedFeatures=undefined,loose=true,assetURLFormat="runtime-resolved",flags={"DEBUG":false,"LOAD_BULLET_MANUALLY":false,"LOAD_SPINE_MANUALLY":false,"WEBGPU":false},preserveType=undefined,wasmCompressionMode=false,enableNamedRegisterForSystemJSModuleFormat=undefined,mangleProperties=false,inlineEnum=true,
+2026-7-13 01:33:33 - debug: Error: Exit process with code:null, signal:SIGTERM in task build-script    at ChildProcess.<anonymous> (D:\cocos_editor\Creator\3.8.8\resources\app.asar\builtin\builder\dist\worker\worker-pools\sub-process-manager.ccc:1:2409)    at ChildProcess.emit (node:events:519:28)    at Process.ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2026-7-13 01:33:34 - log: [buildEngineCommand]enter sub process 7384, 9229, see: chrome://inspect/#devices
+2026-7-13 01:33:35 - log: [buildEngineCommand]start build engine with options: {"engine":"D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine","out":"C:\\Users\\zmlzm\\AppData\\Local\\Temp\\CocosCreator\\3.8.8\\builder\\engine\\5ba8d68590c167326d2ce36470e4afe2","platform":"HTML5","moduleFormat":"system","compress":true,"split":false,"nativeCodeBundleMode":"both","assetURLFormat":"runtime-resolved","noDeprecatedFeatures":false,"sourceMap":false,"features":["2d","affine-transform","animation","audio","base","custom-pipeline","dragon-bones","gfx-webgl","gfx-webgl2","graphics","intersection-2d","mask","particle-2d","physics-2d-builtin","profiler","rich-text","spine-3.8","tiled-map","tween","ui","video","webview","custom-pipeline-builtin-scripts"],"loose":true,"mode":"BUILD","flags":{"DEBUG":false,"LOAD_BULLET_MANUALLY":false,"LOAD_SPINE_MANUALLY":false,"WEBGPU":false},"metaFile":"C:\\Users\\zmlzm\\AppData\\Local\\Temp\\CocosCreator\\3.8.8\\builder\\engine\\5ba8d68590c167326d2ce36470e4afe2.meta\\meta.json","mangleProperties":false,"inlineEnum":true,"incremental":"C:\\Users\\zmlzm\\AppData\\Local\\Temp\\CocosCreator\\3.8.8\\builder\\engine\\5ba8d68590c167326d2ce36470e4afe2.watch-files.json","wasmCompressionMode":false,"mangleConfigJsonMtime":0}
+2026-7-13 01:33:35 - log: [buildEngineCommand]Module source "internal-constants":function tryDefineGlobal (name, value) {    const _global = typeof window === 'undefined' ? global : window;    if (typeof _global[name] === 'undefined') {        return (_global[name] = value);    } else {        // eslint-disable-next-line @typescript-eslint/no-unsafe-return        return _global[name];    }}export const HTML5 = true;export const NATIVE = false;export const ANDROID = false;export const IOS = false;export const MAC = false;export const WINDOWS = false;export const LINUX = false;export const OHOS = false;export const OPEN_HARMONY = false;export const WECHAT = false;tryDefineGlobal('CC_WECHAT', false);export const WECHAT_MINI_PROGRAM = false;export const XIAOMI = false;tryDefineGlobal('CC_XIAOMI', false);export const ALIPAY = false;tryDefineGlobal('CC_ALIPAY', false);export const TAOBAO = false;export const TAOBAO_MINIGAME = false;export const BYTEDANCE = false;tryDefineGlobal('CC_BYTEDANCE', false);export const OPPO = false;tryDefineGlobal('CC_OPPO', false);export const VIVO = false;tryDefineGlobal('CC_VIVO', false);export const HUAWEI = false;tryDefineGlobal('CC_HUAWEI', false);export const MIGU = false;tryDefineGlobal('CC_MIGU', false);export const HONOR = false;tryDefineGlobal('CC_HONOR', false);export const COCOS_RUNTIME = false;tryDefineGlobal('CC_COCOS_RUNTIME', false);export const EDITOR = false;tryDefineGlobal('CC_EDITOR', false);export const EDITOR_NOT_IN_PREVIEW = false;export const PREVIEW = false;tryDefineGlobal('CC_PREVIEW', false);export const BUILD = true;tryDefineGlobal('CC_BUILD', true);export const TEST = false;tryDefineGlobal('CC_TEST', false);export const DEBUG = false;tryDefineGlobal('CC_DEBUG', false);export const SERVER_MODE = false;export const DEV = false;tryDefineGlobal('CC_DEV', false);export const MINIGAME = false;tryDefineGlobal('CC_MINIGAME', false);export const RUNTIME_BASED = false;tryDefineGlobal('CC_RUNTIME_BASED', false);export const SUPPORT_JIT = true;tryDefineGlobal('CC_SUPPORT_JIT', true);export const JSB = false;tryDefineGlobal('CC_JSB', false);export const NOT_PACK_PHYSX_LIBS = false;export const NET_MODE = 0;export const WEBGPU = false;export const NATIVE_CODE_BUNDLE_MODE = 2;export const WASM_SUBPACKAGE = false;export const CULL_MESHOPT = true;export const LOAD_SPINE_MANUALLY = false;export const LOAD_BOX2D_MANUALLY = false;export const LOAD_BULLET_MANUALLY = false;export const LOAD_PHYSX_MANUALLY = false;export const USE_3D = false;export const USE_UI_SKEW = false;export const USE_XR = false;export const USE_SORTING_2D = false;
+2026-7-13 01:33:35 - log: [buildEngineCommand]Module source "cc":export * from 'D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine\\exports\\2d.ts';export * from 'D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine\\exports\\sorting.ts';export * from 'D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine\\exports\\affine-transform.ts';export * from 'D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine\\exports\\animation.ts';export * from 'D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine\\exports\\audio.ts';export * from 'D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine\\exports\\base.ts';export * from 'D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine\\exports\\custom-pipeline.ts';export * from 'D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine\\exports\\dragon-bones.ts';export * from 'D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine\\exports\\gfx-webgl.ts';export * from 'D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine\\exports\\gfx-webgl2.ts';export * from 'D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine\\exports\\graphics.ts';export * from 'D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine\\exports\\intersection-2d.ts';export * from 'D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine\\exports\\mask.ts';export * from 'D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine\\exports\\particle-2d.ts';export * from 'D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine\\exports\\physics-2d-builtin.ts';export * from 'D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine\\exports\\physics-2d-framework.ts';export * from 'D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine\\exports\\profiler.ts';export * from 'D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine\\exports\\rich-text.ts';export * from 'D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine\\exports\\spine.ts';export * from 'D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine\\exports\\tiled-map.ts';export * from 'D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine\\exports\\tween.ts';export * from 'D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine\\exports\\ui.ts';export * from 'D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine\\exports\\video.ts';export * from 'D:\\cocos_editor\\Creator\\3.8.8\\resources\\resources\\3d\\engine\\exports\\webview.ts';
+2026-7-13 01:34:00 - log: [buildEngineCommand]Redirect module internal:native to D:\cocos_editor\Creator\3.8.8\resources\resources\3d\engine\cocos\native-binding\impl.ts
+2026-7-13 01:34:02 - log: [buildEngineCommand]Redirect module pal/system-info to D:\cocos_editor\Creator\3.8.8\resources\resources\3d\engine\pal\system-info\web\system-info.ts
+2026-7-13 01:34:03 - log: [buildEngineCommand]Redirect module D:\cocos_editor\Creator\3.8.8\resources\resources\3d\engine\cocos\2d\renderer\native-2d.ts to D:\cocos_editor\Creator\3.8.8\resources\resources\3d\engine\cocos\2d\renderer\native-2d-empty.ts
+2026-7-13 01:34:04 - log: [buildEngineCommand]Redirect module D:\cocos_editor\Creator\3.8.8\resources\resources\3d\engine\cocos\spine\lib\spine-version.ts to D:\cocos_editor\Creator\3.8.8\resources\resources\3d\engine\cocos\spine\lib\spine-version-3.8.ts
+2026-7-13 01:34:05 - log: [buildEngineCommand]Redirect module D:\cocos_editor\Creator\3.8.8\resources\resources\3d\engine\cocos\animation\marionette\runtime-exports.ts to D:\cocos_editor\Creator\3.8.8\resources\resources\3d\engine\cocos\animation\marionette\index-empty.ts
+2026-7-13 01:34:06 - log: [buildEngineCommand]Redirect module pal/screen-adapter to D:\cocos_editor\Creator\3.8.8\resources\resources\3d\engine\pal\screen-adapter\web\screen-adapter.ts
+2026-7-13 01:34:07 - log: [buildEngineCommand]Redirect module pal/env to D:\cocos_editor\Creator\3.8.8\resources\resources\3d\engine\pal\env\web\env.tsRedirect module pal/pacer to D:\cocos_editor\Creator\3.8.8\resources\resources\3d\engine\pal\pacer\pacer-web.ts
+2026-7-13 01:34:08 - log: [buildEngineCommand]Redirect module pal/input to D:\cocos_editor\Creator\3.8.8\resources\resources\3d\engine\pal\input\web\index.ts
+2026-7-13 01:34:09 - log: [buildEngineCommand]Redirect module pal/audio to D:\cocos_editor\Creator\3.8.8\resources\resources\3d\engine\pal\audio\web\player.ts
+2026-7-13 01:34:10 - log: [buildEngineCommand]Redirect module pal/minigame to D:\cocos_editor\Creator\3.8.8\resources\resources\3d\engine\pal\minigame\non-minigame.ts
+2026-7-13 01:34:11 - log: [buildEngineCommand]Redirect module D:\cocos_editor\Creator\3.8.8\resources\resources\3d\engine\cocos\spine\lib\spine-instantiate.ts to D:\cocos_editor\Creator\3.8.8\resources\resources\3d\engine\cocos\spine\lib\spine-instantiate-3.8.ts
+2026-7-13 01:34:13 - log: [buildEngineCommand]Redirect module pal/wasm to D:\cocos_editor\Creator\3.8.8\resources\resources\3d\engine\pal\wasm\wasm-web.ts
+2026-7-13 01:34:14 - log: [buildEngineCommand]Rollup warning 'THIS_IS_UNDEFINED' is omitted for D:\cocos_editor\Creator\3.8.8\resources\resources\3d\engine\node_modules\@cocos\dragonbones-js\out\dragonBones.js
+2026-7-13 01:34:14 - log: [buildEngineCommand]Rollup warning 'THIS_IS_UNDEFINED' is omitted for D:\cocos_editor\Creator\3.8.8\resources\resources\3d\engine\node_modules\@cocos\dragonbones-js\out\dragonBones.js
+2026-7-13 01:34:18 - log: [buildEngineCommand]==== Performance ====
+2026-7-13 01:34:18 - log: [buildEngineCommand]{"# BUILD":[40789.1713,676314648,848393248],"## initialize":[18912.0318,416775100,589104652],"- plugin 6 (node-resolve) - buildStart":[0.08849999999983993,-229780,172103560],"- plugin 8 (commonjs) - buildStart":[0.02999999999974534,3312,172107716],"- plugin 9 (@cocos/typescript) - buildStart":[18911.8376,416994540,589102660],"## generate module graph":[18606.464500000002,187312040,776417280],"- plugin 0 (commonjs--resolver) - resolveId":[29.15889999990759,-1812612,1346201652],"- plugin 1 (@cocos/ccbuild|external-loader) - resolveId":[8.877300000003743,1180964,1347266316],"- plugin 2 (@cocos/ccbuild|module-overrides) - resolveId":[10.689900000215857,963292,1347267156],"- plugin 3 (virtual) - resolveId":[19.53289999977642,3942796,1347268588],"- plugin 1 (@cocos/ccbuild|external-loader) - load":[2.2998999999836087,357104,1347286136],"- plugin 2 (@cocos/ccbuild|module-overrides) - load":[5.395399999906658,-127724,1347287828],"- plugin 3 (virtual) - load":[1.6158000000104948,217480,1347288324],"- plugin 7 (json) - transform":[3.6022999999913736,714628,1349208748],"- plugin 8 (commonjs) - transform":[154.33690000004935,5264956,1347150704],"- plugin 10 (babel) - transform":[142.63970000001427,2448256,1347175784],"generate ast":[1023.5331999999617,192421000,1344926604],"- plugin 4 (@cocos/ccbuild|module-query-plugin) - resolveId":[12.735099999837985,2836556,1347270368],"- plugin 5 (ts-paths) - resolveId":[7.236700000063138,807064,1347271236],"- plugin 9 (@cocos/typescript) - resolveId":[2099.418500000007,45920352,1347273208],"- plugin 10 (babel) - resolveId":[1.762799999967683,103124,1347273836],"- plugin 6 (node-resolve) - resolveId":[3.68489999999656,409048,1347274712],"- plugin 6 (node-resolve) - load":[1.5194000000265078,409036,1347288828],"- plugin 8 (commonjs) - load":[1.9253999999418738,-100084,1347289324],"- plugin 9 (@cocos/typescript) - load":[24.489300000070216,6909300,1347300004],"- plugin 10 (babel) - load":[245.04660000001968,-95756428,1347307832],"## sort and bind modules":[230.8344999999972,14230884,790648236],"## mark included statements":[3023.4202000000005,57139952,847788220],"treeshaking pass 1":[934.9401999999973,41591532,832454484],"treeshaking pass 2":[361.3310999999958,5880216,838334732],"treeshaking pass 3":[181.4505000000063,3770280,842105044],"treeshaking pass 4":[155.2914000000019,-4458012,837647064],"treeshaking pass 5":[151.2670999999973,3438580,841085676],"treeshaking pass 6":[128.2971000000034,-3329920,837755788],"treeshaking pass 7":[128.89370000000054,3562764,841318584],"treeshaking pass 8":[122.30770000000484,5603200,846921816],"treeshaking pass 9":[307.38750000000437,-4948620,841973228],"treeshaking pass 10":[163.29060000000027,1405292,843378552],"treeshaking pass 11":[132.48860000000423,5763792,849142376],"treeshaking pass 12":[129.36379999999917,-4849076,844293332],"treeshaking pass 13":[126.12700000000041,3494592,847787956],"- plugin 8 (commonjs) - buildEnd":[0.008800000003247987,244,847790904],"- plugin 9 (@cocos/typescript) - buildEnd":[16.0538000000015,601268,848392204]}====             ====
+2026-7-13 01:34:34 - debug: execute-script-end with buildEngineCommand 61102ms
+2026-7-13 01:34:34 - debug: build engine done: output: C:\Users\zmlzm\AppData\Local\Temp\CocosCreator\3.8.8\builder\engine\5ba8d68590c167326d2ce36470e4afe2
+2026-7-13 01:34:34 - debug: 构建引擎脚本 in (61199 ms) √, progress: 17%
+2026-7-13 01:34:34 - debug: Copy plugin script ..., progress: 17%
+2026-7-13 01:34:34 - debug: Generate import-map..., progress: 17%
+2026-7-13 01:34:34 - debug: // ---- build task 打包脚本 ---- (73341ms)
+2026-7-13 01:34:34 - log: run build task 打包脚本 success in 1 min 13 s√, progress: 22%
+2026-7-13 01:34:34 - debug: [Build Memory track]: 打包脚本 start:235.74MB, end 235.82MB, increase: 78.42KB
+2026-7-13 01:34:34 - debug: Build Assets start, progress: 22%
+2026-7-13 01:34:34 - debug: // ---- build task Build Assets ----
+2026-7-13 01:34:34 - debug: Build bundles..., progress: 22%
+2026-7-13 01:34:34 - debug: Pack Images start, progress: 22%
+2026-7-13 01:34:34 - debug: Pack Images start, progress: 13%
+2026-7-13 01:34:34 - debug: Number of pac assets: 1
+2026-7-13 01:34:34 - debug: No pack results
+2026-7-13 01:34:34 - debug: Compress image start..., progress: 22%
+2026-7-13 01:34:34 - debug: Compress image start..., progress: 13%
+2026-7-13 01:34:34 - group: Compress image...
+2026-7-13 01:34:34 - debug: sort compress task {}
+2026-7-13 01:34:34 - debug: Num of all image compress task 0, really: 0, configTasks: 0
+2026-7-13 01:34:34 - debug: No image need to compress
+2026-7-13 01:34:34 - groupEnd: Compress image...
+2026-7-13 01:34:34 - debug: Compress image success..., progress: 22%
+2026-7-13 01:34:34 - debug: Compress image success..., progress: 13%
+2026-7-13 01:34:34 - debug: Output asset in bundles start, progress: 22%
+2026-7-13 01:34:34 - debug: Output asset in bundles start, progress: 13%
+2026-7-13 01:34:34 - debug: Handle all json groups in bundle internal
+2026-7-13 01:34:34 - debug: handle json group
+2026-7-13 01:34:34 - debug: Handle all json groups in bundle main
+2026-7-13 01:34:34 - debug: handle json group
+2026-7-13 01:34:34 - debug: Error: Exit process with code:null, signal:SIGTERM in task build-engine    at ChildProcess.<anonymous> (D:\cocos_editor\Creator\3.8.8\resources\app.asar\builtin\builder\dist\worker\worker-pools\sub-process-manager.ccc:1:2409)    at ChildProcess.emit (node:events:519:28)    at Process.ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2026-7-13 01:34:34 - debug: Json group(02e79ce93) compile success，json number: 6
+2026-7-13 01:34:34 - debug: Json group(04f923b60) compile success，json number: 6
+2026-7-13 01:34:34 - debug: handle single json
+2026-7-13 01:34:34 - debug: Json group(0ed3b2854) compile success，json number: 6
+2026-7-13 01:34:34 - debug: Json group(060072909) compile success，json number: 6
+2026-7-13 01:34:34 - debug: Json group(0419e9ac2) compile success，json number: 6
+2026-7-13 01:34:34 - debug: handle single json
+2026-7-13 01:34:34 - debug: Output asset in bundles success, progress: 22%
+2026-7-13 01:34:34 - debug: Output asset in bundles success, progress: 13%
+2026-7-13 01:34:34 - debug: Output asset in bundles start, progress: 22%
+2026-7-13 01:34:34 - debug: Output asset in bundles start, progress: 13%
+2026-7-13 01:34:34 - debug: compress config of bundle internal...
+2026-7-13 01:34:34 - debug: compress config of bundle internal success
+2026-7-13 01:34:34 - debug: compress config of bundle main...
+2026-7-13 01:34:34 - debug: compress config of bundle main success
+2026-7-13 01:34:34 - debug: output config of bundle internal
+2026-7-13 01:34:34 - debug: output config of bundle internal success
+2026-7-13 01:34:34 - debug: output config of bundle main
+2026-7-13 01:34:34 - debug: output config of bundle main success
+2026-7-13 01:34:34 - debug: Output asset in bundles success, progress: 22%
+2026-7-13 01:34:34 - debug: Output asset in bundles success, progress: 13%
+2026-7-13 01:34:34 - debug: // ---- build task Build Assets ---- (472ms)
+2026-7-13 01:34:34 - log: run build task Build Assets success in 472 ms√, progress: 27%
+2026-7-13 01:34:34 - debug: [Build Memory track]: Build Assets start:235.85MB, end 237.89MB, increase: 2.04MB
+2026-7-13 01:34:34 - debug: 整理部分构建选项内数据到 settings.json start, progress: 27%
+2026-7-13 01:34:34 - debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2026-7-13 01:34:34 - debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (23ms)
+2026-7-13 01:34:34 - log: run build task 整理部分构建选项内数据到 settings.json success in 23 ms√, progress: 29%
+2026-7-13 01:34:34 - debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:237.96MB, end 238.03MB, increase: 67.38KB
+2026-7-13 01:34:34 - debug: 填充脚本数据到 settings.json start, progress: 29%
+2026-7-13 01:34:34 - debug: // ---- build task 填充脚本数据到 settings.json ----
+2026-7-13 01:34:35 - debug: // ---- build task 填充脚本数据到 settings.json ---- (21ms)
+2026-7-13 01:34:35 - log: run build task 填充脚本数据到 settings.json success in 21 ms√, progress: 31%
+2026-7-13 01:34:35 - debug: [Build Memory track]: 填充脚本数据到 settings.json start:238.07MB, end 238.13MB, increase: 62.06KB
+2026-7-13 01:34:35 - debug: 整理部分构建选项内数据到 settings.json start, progress: 31%
+2026-7-13 01:34:35 - debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2026-7-13 01:34:35 - debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (43ms)
+2026-7-13 01:34:35 - log: run build task 整理部分构建选项内数据到 settings.json success in 43 ms√, progress: 32%
+2026-7-13 01:34:35 - debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:238.16MB, end 238.32MB, increase: 163.26KB
+2026-7-13 01:34:35 - debug: web-mobile:(onBeforeCompressSettings) start..., progress: 32%
+2026-7-13 01:34:35 - debug: // ---- build task web-mobile：onBeforeCompressSettings ----
+2026-7-13 01:34:35 - debug: // ---- build task web-mobile：onBeforeCompressSettings ---- (23ms)
+2026-7-13 01:34:35 - debug: web-mobile:(onBeforeCompressSettings) in 23 ms ✓, progress: 34%
+2026-7-13 01:34:35 - debug: cocos-service:(onBeforeCompressSettings) start..., progress: 34%
+2026-7-13 01:34:35 - debug: // ---- build task cocos-service：onBeforeCompressSettings ----
+2026-7-13 01:34:35 - debug: // ---- build task cocos-service：onBeforeCompressSettings ---- (165ms)
+2026-7-13 01:34:35 - debug: cocos-service:(onBeforeCompressSettings) in 165 ms ✓, progress: 36%
+2026-7-13 01:34:35 - debug: 整理静态模板文件 start, progress: 36%
+2026-7-13 01:34:35 - debug: // ---- build task 整理静态模板文件 ----
+2026-7-13 01:34:35 - debug: // ---- build task 整理静态模板文件 ---- (60ms)
+2026-7-13 01:34:35 - log: run build task 整理静态模板文件 success in 60 ms√, progress: 41%
+2026-7-13 01:34:35 - debug: [Build Memory track]: 整理静态模板文件 start:238.57MB, end 238.28MB, increase: -296.63KB
+2026-7-13 01:34:35 - debug: cocos-service:(onAfterCompressSettings) start..., progress: 41%
+2026-7-13 01:34:35 - debug: // ---- build task cocos-service：onAfterCompressSettings ----
+2026-7-13 01:34:35 - debug: // ---- build task cocos-service：onAfterCompressSettings ---- (75ms)
+2026-7-13 01:34:35 - debug: cocos-service:(onAfterCompressSettings) in 75 ms ✓, progress: 43%
+2026-7-13 01:34:35 - debug: web-mobile:(onBeforeCopyBuildTemplate) start..., progress: 43%
+2026-7-13 01:34:35 - debug: // ---- build task web-mobile：onBeforeCopyBuildTemplate ----
+2026-7-13 01:34:35 - debug: // ---- build task web-mobile：onBeforeCopyBuildTemplate ---- (46ms)
+2026-7-13 01:34:35 - debug: web-mobile:(onBeforeCopyBuildTemplate) in 46 ms ✓, progress: 45%
+2026-7-13 01:34:35 - debug: 给所有的资源加上 MD5 后缀 start, progress: 45%
+2026-7-13 01:34:35 - debug: // ---- build task 给所有的资源加上 MD5 后缀 ----
+2026-7-13 01:34:35 - debug: // ---- build task 给所有的资源加上 MD5 后缀 ---- (26ms)
+2026-7-13 01:34:35 - log: run build task 给所有的资源加上 MD5 后缀 success in 26 ms√, progress: 55%
+2026-7-13 01:34:35 - debug: [Build Memory track]: 给所有的资源加上 MD5 后缀 start:240.01MB, end 240.07MB, increase: 61.41KB
+2026-7-13 01:34:35 - debug: web-mobile:(onAfterBuild) start..., progress: 55%
+2026-7-13 01:34:35 - debug: // ---- build task web-mobile：onAfterBuild ----
+2026-7-13 01:34:35 - debug: // ---- build task web-mobile：onAfterBuild ---- (42ms)
+2026-7-13 01:34:35 - debug: web-mobile:(onAfterBuild) in 42 ms ✓, progress: 56%
+2026-7-13 01:34:35 - debug: cocos-service:(onAfterBuild) start..., progress: 56%
+2026-7-13 01:34:35 - debug: // ---- build task cocos-service：onAfterBuild ----
+2026-7-13 01:34:35 - debug: // ---- build task cocos-service：onAfterBuild ---- (74ms)
+2026-7-13 01:34:35 - debug: cocos-service:(onAfterBuild) in 74 ms ✓, progress: 58%
+2026-7-13 01:34:35 - debug: adsense-h5g-plugin:(onAfterBuild) start..., progress: 58%
+2026-7-13 01:34:35 - debug: // ---- build task adsense-h5g-plugin：onAfterBuild ----
+2026-7-13 01:34:35 - debug: // ---- build task adsense-h5g-plugin：onAfterBuild ---- (22ms)
+2026-7-13 01:34:35 - debug: adsense-h5g-plugin:(onAfterBuild) in 22 ms ✓, progress: 60%
+2026-7-13 01:34:35 - log: Asset DB is resume!
+2026-7-13 01:34:35 - debug: builder:build-project-total (78459ms)
+2026-7-13 01:34:35 - debug: build task(web-mobile) in 78459!
+2026-7-13 01:34:35 - debug: [Build Memory track]: builder:build-project-total start:234.61MB, end 240.23MB, increase: 5.62MB
+2026-7-13 01:34:35 - debug: ================================ build Task (web-mobile) Finished in (1 min 18 s)ms ================================

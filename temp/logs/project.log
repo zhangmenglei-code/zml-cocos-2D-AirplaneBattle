@@ -1,0 +1,14 @@
+2026-7-13 01:39:37 - log: Load engine in D:\cocos_editor\Creator\3.8.8\resources\resources\3d\engine
+2026-7-13 01:39:38 - log: Register native engine in D:\cocos_editor\Creator\3.8.8\resources\resources\3d\engine\native
+2026-7-13 01:39:39 - log: Request namespace: device-list
+2026-7-13 01:40:05 - log: [Scene] meshopt wasm decoder initialized
+2026-7-13 01:40:05 - log: [Scene] [bullet]:bullet wasm lib loaded.
+2026-7-13 01:40:05 - log: [Scene] [box2d]:box2d wasm lib loaded.
+2026-7-13 01:40:05 - log: [Scene] [PHYSICS]: using builtin.
+2026-7-13 01:40:05 - log: [Scene] Cocos Creator v3.8.8
+2026-7-13 01:40:05 - log: [Scene] Using custom pipeline: Builtin
+2026-7-13 01:40:52 - info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+2026-7-13 01:40:52 - info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
