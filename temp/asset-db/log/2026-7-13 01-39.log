@@ -2077,3 +2077,117 @@
 2026-7-13 01:56:16-debug: recompile effect.bin success
 2026-7-13 01:56:16-debug: recompile effect.bin success
 2026-7-13 01:56:16-debug: recompile effect.bin success
+2026-7-13 02:03:45-debug: refresh db internal success
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\internalbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\internal\import\04background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\mainbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\04background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\02background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\05background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\06background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\0ebackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\15background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\1cbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\16background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\1dbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\24background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\25background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\36background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\27background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\37background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\39background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\46background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\3abackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\49background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\4bbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\4cbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\4dbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\55background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\5fbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\5cbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\57background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\60background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\87background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\7dbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\61background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\88background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\92background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\97background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\a6background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\9fbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\b2background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\babackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\b0background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\bfbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\cabackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\d3background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\d8background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\d9background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\e6background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\debackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\e8background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\e9background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\f2background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\eabackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\efbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\f3background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\fcbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\0ebackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\15background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\16background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\import\fdbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\1cbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\27background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\25background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\31background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\36background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\24background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\3abackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\39background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\37background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\46background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\49background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\4bbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\4cbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\55background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\5cbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\5fbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\4dbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\6fbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\7dbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\60background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\7ebackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\88background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\9fbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\92background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\97background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\b0background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\aebackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\a6background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\b2background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\bfbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\babackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\cabackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\d9background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\d3background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\debackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\e3background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\e6background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\f0background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\eebackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\efbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\f3background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\f2background: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: %cImport%c: D:\cocos_zml\zml-cocos-2D-AirplaneBattle\assets\main\native\fcbackground: #aaff85; color: #000;color: #000;
+2026-7-13 02:03:45-debug: Run asset db hook engine-extends:afterRefresh ...
+2026-7-13 02:03:45-debug: Run asset db hook engine-extends:afterRefresh success!
+2026-7-13 02:03:45-debug: refresh db assets success
+2026-7-13 02:03:45-debug: asset-db:worker-effect-data-processing (1ms)
+2026-7-13 02:03:45-debug: asset-db:refresh-all-database (205ms)
+2026-7-13 02:03:45-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2026-7-13 02:03:51-debug: refresh db internal success
+2026-7-13 02:03:51-debug: Run asset db hook engine-extends:afterRefresh ...
+2026-7-13 02:03:51-debug: refresh db assets success
+2026-7-13 02:03:51-debug: Run asset db hook engine-extends:afterRefresh success!
+2026-7-13 02:03:51-debug: asset-db:refresh-all-database (121ms)
+2026-7-13 02:03:51-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
